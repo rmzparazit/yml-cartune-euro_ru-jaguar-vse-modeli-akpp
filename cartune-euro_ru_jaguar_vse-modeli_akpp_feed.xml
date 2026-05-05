@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 21:44">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1390220861">АКПП для Jaguar (все модели)</category>
+    </categories>
+    <offers>
+      <offer id="274136120095414925353389511008513135837" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>Контрактная АКПП для Jaguar XE 2016 года с кузовом X760 и двигателем 204PT. Номер по производителю T2H3848. Пробег 61 542 км, подтверждён аукционным листом из Японии</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+      <offer id="311712961720489728183438255908494381250" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>Оригинальная АКПП Jaguar XE 2016, кузов X760, двигатель 204PT. Номер T2H3848. Пробег 61 542 км, аукционный лист в наличии</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+      <offer id="282169391575583886521629658867130833010" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>Контрактная АКПП для Jaguar XE 2016, X760, 204PT. Номер T2H3848. Пробег 61 542 км, есть аукционный лист из Японии</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+      <offer id="176698462958302711325089738946495071249" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>АКПП Jaguar XE 2016, кузов X760, двигатель 204PT. Номер T2H3848. Пробег 61 542 км, подтверждён аукционным листом</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+      <offer id="134020502454945304357235107519280872413" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>Контрактная АКПП для Jaguar XE 2016, кузов X760, двигатель 204PT, номер T2H3848</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+      <offer id="37192214951697970699814279979575929457" available="true" type="vendor.model">
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <price>41999</price>
+        <oldprice>46198</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1390220861</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_137.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_138.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_139.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_140.jpg</picture>
+        <typePrefix>АКПП</typePrefix>
+        <vendor>Jaguar</vendor>
+        <model>XE 2016 X760 204PT T2H3848</model>
+        <description>Контрактная АКПП для Jaguar XE 2016, кузов X760, двигатель 204PT, номер T2H3848</description>
+        <sales_notes>Пробег 61 542 км, аукционный лист из Японии</sales_notes>
+        <custom_label_0>АКПП</custom_label_0>
+        <custom_label_1>Jaguar</custom_label_1>
+        <custom_label_2>Контрактный</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">X760</param>
+        <param name="Двигатель">204PT</param>
+        <param name="Год">2016</param>
+        <param name="Номер по производителю">T2H3848</param>
+        <param name="Пробег">61 542 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_274136120095414925353389511008513135837">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 c доставкой</name>
+        <description>Контрактная АКПП для Jaguar XE 2016 года с кузовом X760 и двигателем 204PT</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+      <collection id="col_311712961720489728183438255908494381250">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 с гарантией</name>
+        <description>Оригинальная АКПП Jaguar XE 2016, кузов X760, двигатель 204PT. Номер T2H3848</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+      <collection id="col_282169391575583886521629658867130833010">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 заказать</name>
+        <description>Контрактная АКПП для Jaguar XE 2016, X760, 204PT. Номер T2H3848</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+      <collection id="col_176698462958302711325089738946495071249">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 купить</name>
+        <description>АКПП Jaguar XE 2016, кузов X760, двигатель 204PT. Номер T2H3848</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+      <collection id="col_134020502454945304357235107519280872413">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 по низкой цене</name>
+        <description>Контрактная АКПП для Jaguar XE 2016, кузов X760, двигатель 204PT, номер T2H3848</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+      <collection id="col_37192214951697970699814279979575929457">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dda55/</url>
+        <name>АКПП Jaguar XE 2016 X760 204PT T2H3848 узнать стоимость</name>
+        <description>Контрактная АКПП для Jaguar XE 2016, кузов X760, двигатель 204PT, номер T2H3848</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/92/0009_92_136.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
